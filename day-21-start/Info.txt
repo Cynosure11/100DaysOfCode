@@ -1,0 +1,2 @@
+All script was working on previous lesson 20
+Please check final result of Snake Game
